@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameHelper", "GameHelper\GameHelper.vcproj", "{CE135664-3623-4CD0-97E7-D2329801857C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CE135664-3623-4CD0-97E7-D2329801857C}.Debug.ActiveCfg = Debug|Win32
+		{CE135664-3623-4CD0-97E7-D2329801857C}.Debug.Build.0 = Debug|Win32
+		{CE135664-3623-4CD0-97E7-D2329801857C}.Release.ActiveCfg = Release|Win32
+		{CE135664-3623-4CD0-97E7-D2329801857C}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
